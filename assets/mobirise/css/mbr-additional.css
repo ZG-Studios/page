@@ -2579,7 +2579,9 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-reZaAvG2Bo {
-  background-image: url("../../../assets/images/portal-1920x1080.jpg");
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/cronus-screenshot-1-1600x900.png");
 }
 .cid-reZaAvG2Bo H1 {
   color: #000000;
@@ -2587,6 +2589,85 @@ body {
 .cid-reZaAvG2Bo .mbr-text,
 .cid-reZaAvG2Bo .mbr-section-btn {
   color: #000000;
+}
+.cid-rmHy9ZWDln {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #008003;
+}
+.cid-rmHy9ZWDln .progress {
+  width: 100%;
+}
+.cid-rmHy9ZWDln progress {
+  height: 8px;
+}
+.cid-rmHy9ZWDln h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rmHy9ZWDln .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmHy9ZWDln .progress_value {
+  position: relative;
+}
+.cid-rmHy9ZWDln .progress_elements {
+  margin: 0 auto;
+}
+.cid-rmHy9ZWDln .title-wrap {
+  display: flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+.cid-rmHy9ZWDln .progress1 .progressbar-number:before,
+.cid-rmHy9ZWDln .progress2 .progressbar-number:before,
+.cid-rmHy9ZWDln .progress3 .progressbar-number:before,
+.cid-rmHy9ZWDln .progress4 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-rmHy9ZWDln progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-rmHy9ZWDln progress::-webkit-progress-value {
+  background: #00526e;
+}
+.cid-rmHy9ZWDln progress[value]::-moz-progress-bar {
+  background: #00526e;
+}
+.cid-rmHy9ZWDln progress::-ms-fill {
+  background: #00526e;
+}
+.cid-rmHy9ZWDln .progress1 .progressbar-number:before {
+  content: '10';
+}
+.cid-rmHy9ZWDln .progress2 .progressbar-number:before {
+  content: '80';
+}
+.cid-rmHy9ZWDln .progress3 .progressbar-number:before {
+  content: '90';
+}
+.cid-rmHy9ZWDln .progress4 .progressbar-number:before {
+  content: '100';
+}
+.cid-rmHy9ZWDln .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-rmHy9ZWDln .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-rmHy9ZWDln .progress_value span {
+  padding-left: 30px;
+}
+.cid-rmHy9ZWDln .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rmHy9ZWDln .progressbar-title p,
+.cid-rmHy9ZWDln .progress_value {
+  color: #ffffff;
 }
 .cid-reYtHfsBfA .navbar {
   padding: .5rem 0;
