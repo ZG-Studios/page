@@ -2638,7 +2638,7 @@ body {
   background: #00526e;
 }
 .cid-rmHy9ZWDln .progress1 .progressbar-number:before {
-  content: '25';
+  content: '35';
 }
 .cid-rmHy9ZWDln .progress2 .progressbar-number:before {
   content: '80';
@@ -2666,6 +2666,40 @@ body {
 .cid-rmHy9ZWDln .progressbar-title p,
 .cid-rmHy9ZWDln .progress_value {
   color: #ffffff;
+}
+.cid-rqvjKNMS7e {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rqvjKNMS7e h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rqvjKNMS7e .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-rqvjKNMS7e .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rqvjKNMS7e .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-rqvjKNMS7e ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-rqvjKNMS7e path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rqvjKNMS7e .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
 }
 .cid-reYtHfsBfA .navbar {
   padding: .5rem 0;
