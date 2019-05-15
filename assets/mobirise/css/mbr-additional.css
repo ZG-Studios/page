@@ -3096,6 +3096,20 @@ body {
 .cid-reYChB9pny {
   background-image: url("../../../assets/images/mbr-1920x1275.jpg");
 }
+.cid-rqzw6S3Isn {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #00a504;
+}
+.cid-rqzw6S3Isn .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rqzw6S3Isn .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rqzw6S3Isn H2 {
+  text-align: center;
+}
 .cid-reYtHfsBfA .navbar {
   padding: .5rem 0;
   background: #00a504;
@@ -3509,7 +3523,7 @@ body {
   color: #767676;
 }
 .cid-reYDHMB99S .mbr-author-name {
-  color: #c1c1c1;
+  color: #ffffff;
 }
 .cid-reYDHMB99S .mbr-testimonial .panel-item {
   background-color: #333333;
