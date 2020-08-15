@@ -1,4 +1,4 @@
 # ZG Studios
 Our Webpage
 
-https://zg-studios.github.io/projects/
+https://zg-studios.github.io/
