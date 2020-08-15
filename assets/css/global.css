@@ -3,7 +3,7 @@ html, body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    background-size: contain;
+    background-size: auto 100%;
     background-color: #005302;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
