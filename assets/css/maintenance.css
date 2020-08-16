@@ -9,18 +9,32 @@ div {
 }
 
 h1 {
-    font-size: 5vmax;
+    font-size: 5vh;
     font-weight: bold;
     margin: 16px;
 }
 
 h2 {
-    font-size: 3vmax;
+    font-size: 3vh;
     font-weight: bold;
     margin: 16px;
 }
 
 p {
-    font-size: 2vmax;
+    font-size: 2vh;
     margin: 16px;
+}
+
+@media only screen and (hover: none) and (pointer: coarse) {
+    h1 {
+        font-size: 5vmax;
+    }
+
+    h2 {
+        font-size: 3vmax;
+    }
+
+    p {
+        font-size: 2vmax;
+    }
 }
