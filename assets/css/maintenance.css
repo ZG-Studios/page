@@ -9,18 +9,18 @@ div {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 5vmax;
     font-weight: bold;
     margin: 16px;
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 3vmax;
     font-weight: bold;
     margin: 16px;
 }
 
 p {
-    font-size: 24px;
+    font-size: 2vmax;
     margin: 16px;
 }
